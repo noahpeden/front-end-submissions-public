@@ -32,7 +32,8 @@ Reason you don't feel awesome about this code.
 It took me way too long to figure out that endpoints needed to be specific and that my freakin data was capitalized.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![](http://imgur.com/a/P0Oqt)
+![Screenshot](http://imgur.com/a/P0Oqt)
+http://imgur.com/a/P0Oqt
 
 Instructor Feedback
 
